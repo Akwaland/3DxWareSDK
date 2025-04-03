@@ -1,0 +1,45 @@
+[
+    {
+        "outputFileName": "autobahn.min.js",
+        "inputFiles": [
+            "crypto-js/license.js",
+            "crypto-js/core.js",
+            "crypto-js/enc-base64.js",
+            "crypto-js/hmac.js",
+            "crypto-js/pbkdf2.js",
+            "crypto-js/sha256.js",
+            "autobahn/autobahn.js"
+        ]
+    },
+    {
+        "outputFileName": "3dconnexion.min.js",
+        "inputFiles": [
+            "3dconnexion.cjs",
+            "actioncache.js",
+            "imageitem.js",
+            "crypto-js/license.js",
+            "crypto-js/core.js",
+            "crypto-js/enc-base64.js",
+            "crypto-js/hmac.js",
+            "crypto-js/pbkdf2.js",
+            "crypto-js/sha256.js",
+            "autobahn/autobahn.js"
+        ]
+    },
+    {
+        "outputFileName": "3dconnexion.module.min.js",
+        "inputFiles": [
+            "3dconnexion.cjs",
+            "actioncache.js",
+            "imageitem.js",
+            "3dconnexion.export.js",
+            "crypto-js/license.js",
+            "crypto-js/core.js",
+            "crypto-js/enc-base64.js",
+            "crypto-js/hmac.js",
+            "crypto-js/pbkdf2.js",
+            "crypto-js/sha256.js",
+            "autobahn/autobahn.js"
+        ]
+    }
+]
