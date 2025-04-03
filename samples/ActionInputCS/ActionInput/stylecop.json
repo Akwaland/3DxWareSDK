@@ -1,0 +1,19 @@
+﻿{
+  // ACTION REQUIRED: This file was automatically added to your project, but it
+  // will not take effect until additional steps are taken to enable it. See the
+  // following page for additional information:
+  //
+  // https://github.com/DotNetAnalyzers/StyleCopAnalyzers/blob/master/documentation/EnableConfiguration.md
+
+  "$schema": "https://raw.githubusercontent.com/DotNetAnalyzers/StyleCopAnalyzers/master/StyleCop.Analyzers/StyleCop.Analyzers/Settings/stylecop.schema.json",
+  "settings": {
+    "documentationRules": {
+      "xmlHeader": true,
+      "companyName": "3Dconnexion",
+      "copyrightText": "-------------------------------------------------------------------------------------\nCopyright (c) 2022 {companyName}. All rights reserved.\n\nThis file and source code are an integral part of the \"{companyName} Software Developer\nKit\", including all accompanying documentation, and is protected by intellectual\nproperty laws. All use of the {companyName} Software Developer Kit is subject to the\nLicense Agreement found in the \"{licenseFile}\" file.\nAll rights not expressly granted by {companyName} are reserved.\n-------------------------------------------------------------------------------------",
+      "variables": {
+        "licenseFile": "LicenseAgreementSDK.txt"
+      }
+    }
+  }
+}
